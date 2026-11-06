@@ -1,5 +1,40 @@
-# 💫 About Me:
-🔭 I’m currently working on Building VYREX – An AI-Powered Cybersecurity Assistant<br>👯 I’m looking to collaborate on Cybersecurity Research, Ethical Hacking & Next-Gen Security Projects<br>🤝 I’m looking for help with Advanced Penetration Testing, Red Teaming & AI-Driven Security<br>🌱 I’m currently learning Breaking Web Applications (Ethically), OWASP Top 10 & Offensive Security<br>💬 Ask me about Ethical Hacking, Burp Suite, Web Security, Linux & Cybersecurity<br>⚡ Fun fact Every system has a weakness. I just love understanding how to find it.
+## 👨‍💻 About Me
+
+Hi, I'm **Mohak Saxena**, a Computer Science student specializing in cybersecurity  with a strong interest in **Ethical Hacking, Vulnerability Assessment & Penetration Testing (VAPT), Security Operations Center (SOC), and Cyber Threat Intelligence.**
+
+I enjoy understanding how systems work, exploring potential security weaknesses, analyzing attack techniques, and learning how to defend digital environments against evolving cyber threats. My learning journey is driven by hands-on security labs, Capture The Flag (CTF) challenges, cybersecurity research, and practical projects.
+
+I'm particularly interested in exploring how cybersecurity professionals identify vulnerabilities, investigate suspicious activities, detect threats, and strengthen system security.
+
+I also explore the potential of **Artificial Intelligence in Cybersecurity**, particularly its applications in threat analysis, security automation, vulnerability research, and intelligent security solutions.
+
+Currently, I'm focused on developing practical cybersecurity skills, building security-focused projects, strengthening my offensive and defensive security knowledge, and continuously learning through hands-on challenges.
+
+### 🚀 Current Focus
+
+- 🔐 Ethical Hacking & Offensive Security
+- 🔍 Vulnerability Assessment & Penetration Testing (VAPT)
+- 🌐 Web Application Security & OWASP Top 10
+- 🚨 Security Operations Center (SOC) & Threat Detection
+- 📋 Governance, Risk & Compliance (GRC)
+- 🛡️ Cyber Threat Intelligence & Security Analysis
+- 🐧 Linux & Kali Linux
+- 🤖 AI-Assisted Cybersecurity Research & Automation
+
+### 🏆 Highlights
+
+- 🔐 Passionate about Cybersecurity & Ethical Hacking
+- 🧪 Exploring hands-on security labs and CTF challenges
+- 🛠️ Working on cybersecurity-focused projects
+- 🤖 Exploring AI-powered cybersecurity solutions through VYREX
+- 📚 Continuously learning and strengthening practical security skills
+
+---
+
+💬 Feel free to connect if you'd like to discuss cybersecurity, ethical hacking, security research, threat intelligence, or collaborate on interesting security projects.
+
+**"Think Like an Attacker. Defend Like a Professional."** 🔐
+
 
 
 ## 🌐 Socials:
