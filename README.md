@@ -53,14 +53,10 @@ Currently, I'm focused on developing practical cybersecurity skills, building se
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=plastic&logo=splunk&logoColor=white)
 ### 📋 Governance, Risk & Compliance (GRC)
 ![ISO 27001](https://img.shields.io/badge/ISO%2027001-0052CC?style=plastic)
-![ISO 31000](https://img.shields.io/badge/ISO%2031000-0052CC?style=plastic)
 ![NIST CSF](https://img.shields.io/badge/NIST%20CSF-0033A0?style=plastic)
-![SOC 2](https://img.shields.io/badge/SOC%202-1F6FEB?style=plastic)
 ![HIPAA](https://img.shields.io/badge/HIPAA-0078D4?style=plastic)
 ![GDPR](https://img.shields.io/badge/GDPR-0A66C2?style=plastic)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ### 📜 Scripting
